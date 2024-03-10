@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourovkumar01&label=Profile%20views&color=0e75b6&style=flat" alt="sourovkumar01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sourov kumar" target="blank"><img src="https://img.shields.io/twitter/follow/sourov kumar?logo=twitter&style=for-the-badge" alt="sourov kumar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sourov kumar" target="blank"><img src="https://img.shields.io/twitter/follow/sourov kumar?logo=twitter&style=for-the-badge" alt="SOUROV KUMAR" /></a> </p>
 
 - 🔭 I’m currently working on **women safety app**
 
